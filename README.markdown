@@ -26,7 +26,7 @@ You can configure the delay when initializing deck.js:
 
 deck.ignite.js tries to get out of your way if you suddenly start to 
 navigate your slide deck manually. If you move backwards, it will exit 
-ignite mode and not active it again until you've waited at least the
+ignite mode and not become active again until you've waited at least the
 configured delay on a slide before moving forward in your deck (so to
 restart after navigating to a different slide, wait 15 seconds and then
 move manually forward. Ignite mode should automagically resume.)
